@@ -1,0 +1,109 @@
+AudMig: Device Ids perfect match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtstereomixtopo_d1/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtstereomixtopo_d1/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 11
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 15
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 20
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 43
+AudMig: Migrated {0f8412d3-dc5c-4db3-b174-dc47a859435c},0 property at 0
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{1FF15D00-E383-47ED-89C6-C7109333A1D7} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{92FCD3DE-593F-4990-AEE3-E0C6A2AE7C66}
+AudMig: Device Ids perfect match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rearlineouttopohap_d1/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rearlineouttopohap_d1/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 11
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 15
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 21
+AudMig: Migrated {24dbb0fc-9311-4b3d-9cf0-18ff155639d4},1 property at 22
+AudMig: Migrated {6737016f-5360-48ee-af05-e616c8ff27a7},2 property at 23
+AudMig: Migrated {fd8a7b27-0b18-4025-ab1c-bdd6b32e1604},2 property at 24
+AudMig: Migrated {908dba32-edff-4c28-8e45-c918561f6748},2 property at 25
+AudMig: Migrated {913bc9a7-624b-4a30-96ac-5064a9fc6589},2 property at 26
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},2 property at 27
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},3 property at 28
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},4 property at 29
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},5 property at 30
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},6 property at 31
+AudMig: Migrated {24dbb0fc-9311-4b3d-9cf0-18ff155639d4},0 property at 32
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 60
+AudMig: Migrated {0f8412d3-dc5c-4db3-b174-dc47a859435c},0 property at 0
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},2 property at 0
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},5 property at 1
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},4 property at 2
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},1 property at 3
+AudMig: Migrated {d5e60007-c479-4002-bebe-075a1613a70d},2 property at 4
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{A84BA522-7721-4D6B-87D0-306ED8310627} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{8BA9A72A-E95D-4160-BE11-B4758A32C51D}
+AudMig: Device Ids perfect match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicintopo_d1/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\rtmicintopo_d1/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 11
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 15
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 20
+AudMig: Migrated {0f8412d3-dc5c-4db3-b174-dc47a859435c},0 property at 0
+AudMig: Migrated {2b24be42-a892-11dc-8314-0800200c9a66},2 property at 0
+AudMig: Migrated {2b24be42-a892-11dc-8314-0800200c9a66},7 property at 1
+AudMig: Migrated {2b24be42-a892-11dc-8314-0800200c9a66},900 property at 2
+AudMig: Migrated {2b24be42-a892-11dc-8314-0800200c9a66},9001 property at 3
+AudMig: Migrated {be73ed5b-fc1c-4875-ac4f-833fff79cdaa},900 property at 4
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{721CDA63-54F9-47D3-A59E-47E0E109602C} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{E2D0F893-9D9C-4A0C-9543-54B49AEDDA97}
+AudMig: Device Ids perfect match - {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\secondarylineouttopo_d1/00010001 {2}.\\?\hdaudio#func_01&ven_10ec&dev_0257&subsys_17aa5094&rev_1000#5&1002f537&0&0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\secondarylineouttopo_d1/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 11
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 15
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 21
+AudMig: Migrated {0f8412d3-dc5c-4db3-b174-dc47a859435c},0 property at 0
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{E6496EF1-FD1B-4ADD-BD11-4DD0532B4004} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{2828E1FD-6FB1-4B6A-8971-08B67B19AC84}
+AudMig: Device Ids perfect match - {2}.\\?\usb#vid_0951&pid_16a4&mi_00#8&3321d09b&0&0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010003 {2}.\\?\usb#vid_0951&pid_16a4&mi_00#8&3321d09b&0&0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010003
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 2
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 14
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 19
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 23
+AudMig: Migrated {6737016f-5360-48ee-af05-e616c8ff27a7},2 property at 24
+AudMig: Migrated {fd8a7b27-0b18-4025-ab1c-bdd6b32e1604},2 property at 25
+AudMig: Migrated {908dba32-edff-4c28-8e45-c918561f6748},2 property at 26
+AudMig: Migrated {913bc9a7-624b-4a30-96ac-5064a9fc6589},2 property at 27
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},2 property at 28
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},3 property at 29
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},4 property at 30
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},5 property at 31
+AudMig: Migrated {a45429a4-aa63-4480-b7f8-3f2552daee93},6 property at 32
+AudMig: Migrated {24dbb0fc-9311-4b3d-9cf0-18ff155639d4},0 property at 33
+AudMig: Migrated {24dbb0fc-9311-4b3d-9cf0-18ff155639d4},1 property at 34
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 55
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},2 property at 0
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},5 property at 1
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},4 property at 2
+AudMig: Migrated {1b4dab55-b1fb-4d8c-8317-f2d4a96efbb8},1 property at 3
+AudMig: Migrated {d5e60007-c479-4002-bebe-075a1613a70d},2 property at 4
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{9AD702AE-C9CE-4719-B9BA-39E8FD5703B3} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{A11D48AF-D8E2-4C83-9FB5-9C325E151E24}
+AudMig: Device Ids perfect match - {2}.\\?\usb#vid_0951&pid_16a4&mi_00#8&3321d09b&0&0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002 {2}.\\?\usb#vid_0951&pid_16a4&mi_00#8&3321d09b&0&0000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 2
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 14
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 19
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 23
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 44
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{F789D8C8-E2AF-42E9-9524-22FD990604D1} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{EC879BC1-E794-4BBC-B41E-4E69461895B1}
+[08/22/2025 11:28.42.214] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[08/22/2025 11:28.42.218] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[08/22/2025 11:28.42.219] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[08/22/2025 11:28.42.222] WudfCoInstaller: ImpersonationLevel set to 2
+
+[08/22/2025 11:28.42.223] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[08/22/2025 11:28.42.341] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[08/25/2025 07:33.36.475] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[08/25/2025 07:33.36.477] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[08/25/2025 07:33.36.479] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[08/25/2025 07:33.36.482] WudfCoInstaller: ImpersonationLevel set to 2
+
+[08/25/2025 07:33.36.482] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[08/25/2025 07:33.36.483] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[08/25/2025 07:33.36.609] WudfCoInstaller: Created marker file C:\WINDOWS\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+

@@ -1,0 +1,54 @@
+1db470be356a428: StartTime
+Primitive operation timings: Registry: 4074ms, Files: 10357ms
+Transaction UoW: {1B8DE1DA-B2FA-11EF-8209-C09F8A6408E8} for CommitTransaction
+22711ms: ValidateQueuedOpsStart
+29359ms: ValidateQueuedOpsFinish
+29359ms: EndTime
+1db52af9aa637d0: StartTime
+Primitive operation timings: Registry: 3254ms, Files: 6266ms
+Transaction UoW: {5A65FD6D-BE44-11EF-820F-D00AA9DB9961} for CommitTransaction
+15761ms: ValidateQueuedOpsStart
+21440ms: ValidateQueuedOpsFinish
+21440ms: EndTime
+1dbb04ee673a1ee: StartTime
+Primitive operation timings: Registry: 4910ms, Files: 10962ms
+Transaction UoW: {C34B0F42-1C40-11F0-8215-818A35C068CE} for CommitTransaction
+26163ms: ValidateQueuedOpsStart
+34901ms: ValidateQueuedOpsFinish
+34901ms: EndTime
+1dc027ea2cb7b2e: StartTime
+Primitive operation timings: Registry: 5317ms, Files: 10251ms
+Transaction UoW: {86188AF2-6E44-11F0-8217-B52DA4B7384B} for CommitTransaction
+25602ms: ValidateQueuedOpsStart
+34449ms: ValidateQueuedOpsFinish
+34449ms: EndTime
+1dc0bf4bcc9d708: StartTime
+Primitive operation timings: Registry: 3828ms, Files: 6067ms
+Transaction UoW: {B6FCAF6B-765F-11F0-8219-A59E18594D56} for CommitTransaction
+17086ms: ValidateQueuedOpsStart
+22762ms: ValidateQueuedOpsFinish
+22762ms: EndTime
+1dc12b87778d1d6: StartTime
+Primitive operation timings: Registry: 2ms, Files: 10ms
+Transaction UoW: {37738E7E-7DE4-11F0-821B-F21B5A1DC265} for CommitTransaction
+501ms: ValidateQueuedOpsStart
+501ms: ValidateQueuedOpsFinish
+501ms: EndTime
+1dc19d3e7caa860: StartTime
+Primitive operation timings: Registry: 250ms, Files: 237ms
+Transaction UoW: {914E675E-85B3-11F0-8220-C247A357A529} for CommitTransaction
+1592ms: ValidateQueuedOpsStart
+1765ms: ValidateQueuedOpsFinish
+1765ms: EndTime
+1dc1a957f36e512: StartTime
+Primitive operation timings: Registry: 113ms, Files: 130ms
+Transaction UoW: {0ABDE8BC-867C-11F0-8221-E3A4D23A2543} for CommitTransaction
+1372ms: ValidateQueuedOpsStart
+1372ms: ValidateQueuedOpsFinish
+1372ms: EndTime
+1dc1a97ad94eb23: StartTime
+Primitive operation timings: Registry: 548ms, Files: 153ms
+Transaction UoW: {01EB0C6F-8689-11F0-8222-9E1FDAC74E60} for CommitTransaction
+1862ms: ValidateQueuedOpsStart
+2019ms: ValidateQueuedOpsFinish
+2019ms: EndTime
